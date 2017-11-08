@@ -1,0 +1,55 @@
+C:\Users\x\Documents\Visual Studio 2017\Projects\PracticaMVC\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp2.0\EjemploMVC.deps.json
+C:\Users\x\Documents\Visual Studio 2017\Projects\PracticaMVC\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp2.0\EjemploMVC.runtimeconfig.json
+C:\Users\x\Documents\Visual Studio 2017\Projects\PracticaMVC\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp2.0\EjemploMVC.runtimeconfig.dev.json
+C:\Users\x\Documents\Visual Studio 2017\Projects\PracticaMVC\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp2.0\EjemploMVC.dll
+C:\Users\x\Documents\Visual Studio 2017\Projects\PracticaMVC\EjemploMVC\EjemploMVC\bin\Debug\netcoreapp2.0\EjemploMVC.pdb
+C:\Users\x\Documents\Visual Studio 2017\Projects\PracticaMVC\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp2.0\EjemploMVC.csprojResolveAssemblyReference.cache
+C:\Users\x\Documents\Visual Studio 2017\Projects\PracticaMVC\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp2.0\EjemploMVC.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\Visual Studio 2017\Projects\PracticaMVC\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp2.0\EjemploMVC.AssemblyInfoInputs.cache
+C:\Users\x\Documents\Visual Studio 2017\Projects\PracticaMVC\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp2.0\EjemploMVC.AssemblyInfo.cs
+C:\Users\x\Documents\Visual Studio 2017\Projects\PracticaMVC\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp2.0\EjemploMVC.dll
+C:\Users\x\Documents\Visual Studio 2017\Projects\PracticaMVC\EjemploMVC\EjemploMVC\obj\Debug\netcoreapp2.0\EjemploMVC.pdb
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase7 profesor\EjemploMVC\bin\Debug\netcoreapp2.0\EjemploMVC.deps.json
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase7 profesor\EjemploMVC\bin\Debug\netcoreapp2.0\EjemploMVC.runtimeconfig.json
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase7 profesor\EjemploMVC\bin\Debug\netcoreapp2.0\EjemploMVC.runtimeconfig.dev.json
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase7 profesor\EjemploMVC\bin\Debug\netcoreapp2.0\EjemploMVC.dll
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase7 profesor\EjemploMVC\bin\Debug\netcoreapp2.0\EjemploMVC.pdb
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase7 profesor\EjemploMVC\obj\Debug\netcoreapp2.0\EjemploMVC.csprojResolveAssemblyReference.cache
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase7 profesor\EjemploMVC\obj\Debug\netcoreapp2.0\EjemploMVC.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase7 profesor\EjemploMVC\obj\Debug\netcoreapp2.0\EjemploMVC.AssemblyInfoInputs.cache
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase7 profesor\EjemploMVC\obj\Debug\netcoreapp2.0\EjemploMVC.AssemblyInfo.cs
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase7 profesor\EjemploMVC\obj\Debug\netcoreapp2.0\EjemploMVC.dll
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase7 profesor\EjemploMVC\obj\Debug\netcoreapp2.0\EjemploMVC.pdb
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase9 video\EjemploMVC\bin\Debug\netcoreapp2.0\EjemploMVC.deps.json
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase9 video\EjemploMVC\bin\Debug\netcoreapp2.0\EjemploMVC.runtimeconfig.json
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase9 video\EjemploMVC\bin\Debug\netcoreapp2.0\EjemploMVC.runtimeconfig.dev.json
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase9 video\EjemploMVC\bin\Debug\netcoreapp2.0\EjemploMVC.dll
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase9 video\EjemploMVC\bin\Debug\netcoreapp2.0\EjemploMVC.pdb
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase9 video\EjemploMVC\obj\Debug\netcoreapp2.0\EjemploMVC.csprojResolveAssemblyReference.cache
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase9 video\EjemploMVC\obj\Debug\netcoreapp2.0\EjemploMVC.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase9 video\EjemploMVC\obj\Debug\netcoreapp2.0\EjemploMVC.AssemblyInfoInputs.cache
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase9 video\EjemploMVC\obj\Debug\netcoreapp2.0\EjemploMVC.AssemblyInfo.cs
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase9 video\EjemploMVC\obj\Debug\netcoreapp2.0\EjemploMVC.dll
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase9 video\EjemploMVC\obj\Debug\netcoreapp2.0\EjemploMVC.pdb
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase11\EjemploMVC\obj\Debug\netcoreapp2.0\EjemploMVC.csprojResolveAssemblyReference.cache
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase11\EjemploMVC\obj\Debug\netcoreapp2.0\EjemploMVC.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase11\EjemploMVC\obj\Debug\netcoreapp2.0\EjemploMVC.AssemblyInfoInputs.cache
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase11\EjemploMVC\obj\Debug\netcoreapp2.0\EjemploMVC.AssemblyInfo.cs
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase11\EjemploMVC\obj\Debug\netcoreapp2.0\EjemploMVC.dll
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase11\EjemploMVC\obj\Debug\netcoreapp2.0\EjemploMVC.pdb
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase11\EjemploMVC\bin\Debug\netcoreapp2.0\EjemploMVC.deps.json
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase11\EjemploMVC\bin\Debug\netcoreapp2.0\EjemploMVC.runtimeconfig.json
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase11\EjemploMVC\bin\Debug\netcoreapp2.0\EjemploMVC.runtimeconfig.dev.json
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase11\EjemploMVC\bin\Debug\netcoreapp2.0\EjemploMVC.dll
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase11\EjemploMVC\bin\Debug\netcoreapp2.0\EjemploMVC.pdb
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\ejercicio a entregar videoclub colon\EjemploMVC\bin\Debug\netcoreapp2.0\EjemploMVC.deps.json
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\ejercicio a entregar videoclub colon\EjemploMVC\bin\Debug\netcoreapp2.0\EjemploMVC.runtimeconfig.json
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\ejercicio a entregar videoclub colon\EjemploMVC\bin\Debug\netcoreapp2.0\EjemploMVC.runtimeconfig.dev.json
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\ejercicio a entregar videoclub colon\EjemploMVC\bin\Debug\netcoreapp2.0\EjemploMVC.dll
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\ejercicio a entregar videoclub colon\EjemploMVC\bin\Debug\netcoreapp2.0\EjemploMVC.pdb
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\ejercicio a entregar videoclub colon\EjemploMVC\obj\Debug\netcoreapp2.0\EjemploMVC.csprojResolveAssemblyReference.cache
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\ejercicio a entregar videoclub colon\EjemploMVC\obj\Debug\netcoreapp2.0\EjemploMVC.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\ejercicio a entregar videoclub colon\EjemploMVC\obj\Debug\netcoreapp2.0\EjemploMVC.AssemblyInfoInputs.cache
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\ejercicio a entregar videoclub colon\EjemploMVC\obj\Debug\netcoreapp2.0\EjemploMVC.AssemblyInfo.cs
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\ejercicio a entregar videoclub colon\EjemploMVC\obj\Debug\netcoreapp2.0\EjemploMVC.dll
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\ejercicio a entregar videoclub colon\EjemploMVC\obj\Debug\netcoreapp2.0\EjemploMVC.pdb
